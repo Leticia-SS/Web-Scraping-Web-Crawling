@@ -31,3 +31,4 @@ for event in events:
     print(localizacao.text.strip())
     print(status.text.strip())
     print('\n\n')
+    
